@@ -1,0 +1,19 @@
+{
+  "name": "newapp1",
+  "version": "1.0.0",
+  "description": "newapp1",
+  "main": "Question_2_ajax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OK1995/newapp1.git"
+  },
+  "author": "Omkar Kadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OK1995/newapp1/issues"
+  },
+  "homepage": "https://github.com/OK1995/newapp1#readme"
+}
